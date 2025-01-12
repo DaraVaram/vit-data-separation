@@ -35,7 +35,7 @@ First, clone this repository and install the required dependencies:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DaraVaram/Transformers-Data-Separation.git
+   git clone https://github.com/DaraVaram/vit-data-separation.git
    cd Transformers-Data-Separation
    ```
 
