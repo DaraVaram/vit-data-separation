@@ -198,6 +198,16 @@ If you found our work useful or helpful for your own research, please consider c
 
 
 ```
+@ARTICLE{11141391,
+  author={Varam, Dara and Khalil, Lujain and Darwish, Mahmoud and AlHajri, Mohamed I.},
+  journal={IEEE Access}, 
+  title={Class Separation Dynamics in Vision Transformers: An Empirical Study}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Transformers;Training;Measurement;Computer vision;Head;Data models;Computer architecture;Neural networks;Computational modeling;Benchmark testing;Class Separability;Image Classification;Model Learning;Separation Fuzziness;Vision Transformers},
+  doi={10.1109/ACCESS.2025.3602733}}
 
 ```
 
