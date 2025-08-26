@@ -1,6 +1,6 @@
-# Characterizing Spike-Decay in ViTs: How Do Vision Transformers Separate Data?
+# Class Separation Dynamics in Vision Transformers: An Empirical Study
 
-This repository contains code and resources for the research paper titled "Characterizing Spike-Decay in ViTs: How Do Vision Transformers Separate Data?" The project investigates Vision Transformers (ViTs) through data separation characteristics, focusing on a "spike-decay" pattern. Various experiments were conducted to analyze how parameter adjustments impact inter- and intra-class separability across ViT layers.
+This repository contains code and resources for the research paper titled "Class Separation Dynamics in Vision Transformers: An Empirical Study." The project investigates Vision Transformers (ViTs) through data separation characteristics, focusing on a "spike-decay" pattern. Various experiments were conducted to analyze how parameter adjustments impact inter- and intra-class separability across ViT layers.
 
 # System Overview
 
